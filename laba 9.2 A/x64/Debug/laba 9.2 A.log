@@ -1,0 +1,7 @@
+﻿  laba 9.2 A.cpp
+C:\Users\ACER\source\repos\laba 9.2 A\laba 9.2 A\laba 9.2 A.cpp(39,6): warning C4101: 'matem': unreferenced local variable
+C:\Users\ACER\source\repos\laba 9.2 A\laba 9.2 A\laba 9.2 A.cpp(40,6): warning C4101: 'inform': unreferenced local variable
+C:\Users\ACER\source\repos\laba 9.2 A\laba 9.2 A\laba 9.2 A.cpp(38,6): warning C4101: 'physics': unreferenced local variable
+C:\Users\ACER\source\repos\laba 9.2 A\laba 9.2 A\laba 9.2 A.cpp(34,9): warning C4101: 'proc': unreferenced local variable
+C:\Users\ACER\source\repos\laba 9.2 A\laba 9.2 A\laba 9.2 A.cpp(169,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  laba 9.2 A.vcxproj -> C:\Users\ACER\source\repos\laba 9.2 A\x64\Debug\laba 9.2 A.exe
